@@ -1,0 +1,4 @@
+venv/
+dist/
+wzapr.egg-info/
+duild/
