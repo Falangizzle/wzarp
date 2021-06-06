@@ -1,4 +1,5 @@
 venv/
 dist/
-wzapr.egg-info/
-duild/
+wzarp.egg-info/
+build/
+.idea/
